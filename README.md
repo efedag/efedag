@@ -13,15 +13,26 @@
 ## About Me
 - Computer Science student, building cool projects
 - Interested in: **Game Dev / Web Dev / Mobile Apps**
-- Main language: **Python**
+- Main languages: **Python, Java, PHP**
 - Goal: **Learn by building, ship fast, have fun**
 
 ---
 
 ## Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,java,php,js,html,css,mysql,git,github,vscode&perline=5" />
 </p>
+
+---
+
+## Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [WhoWantsToBeAMillioner](https://github.com/efedag/WhoWantsToBeAMillioner) | Desktop quiz game with TCP socket communication | Java Swing |
+| [JavaMiniFarmGame](https://github.com/efedag/JavaMiniFarmGame) | 2D pixel farm game - plant, harvest, trade | Java Swing |
+| [FoodApp](https://github.com/efedag/FoodApp) | Role-based food ordering system | PHP + MySQL |
+| [personal](https://github.com/efedag/personal) | Personal Python projects | Python |
 
 ---
 
@@ -37,13 +48,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=efedag&bg_color=0b1220&color=00E5FF&line=00E5FF&point=ffffff&hide_border=true" />
 </p>
-
----
-
-## Projects
-- [personal](https://github.com/efedag/personal) - Personal Python projects
-- [hw3](https://github.com/efedag/hw3) - Python homework
-- [hw2](https://github.com/efedag/hw2) - Python homework
 
 ---
 
