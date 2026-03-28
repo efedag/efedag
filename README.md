@@ -1,71 +1,52 @@
-<div align="center">
+<h1 align="center">Efe Dağ</h1>
 
-# Hey there! I'm Efe 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Game+Developer+%F0%9F%8E%AE;Web+Developer+%F0%9F%8C%90;Mobile+App+Developer+%F0%9F%93%B1;Welcome+to+my+GitHub+%F0%9F%94%A5" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E8EF7&center=true&vCenter=true&random=false&width=500&lines=Computer+Science+Student;Game+Developer;Web+Developer;Mobile+App+Developer)](https://git.io/typing-svg)
-
-</div>
-
----
-
-### About Me
-
-```yaml
-name: Efe Dağ
-role: Computer Science Student
-interests: [Game Development, Web Development, Mobile Development]
-languages: [Python, and growing...]
-motto: "Learning by building."
-```
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=efedag&label=Profile%20views&color=00E5FF&style=flat" />
+</p>
 
 ---
 
-### Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
+## 🚀 About Me
+- 🎯 Computer Science student, building cool projects  
+- 🎮 Interested in: **Game Dev / Web Dev / Mobile Apps**  
+- 🐍 Main language: **Python**  
+- ⚡ Goal: **Learn by building, ship fast, have fun**  
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=efedag&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=6E8EF7&icon_color=6E8EF7&text_color=555555" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efedag&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=6E8EF7&text_color=555555" height="165" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=efedag&hide_border=true&background=00000000&ring=6E8EF7&fire=6E8EF7&currStreakLabel=6E8EF7&sideLabels=555555&dates=999999&currStreakNum=555555&sideNums=555555" />
-
-</div>
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode&perline=7" />
+</p>
 
 ---
 
-### Activity Graph
+## 📊 GitHub Stats
+<p align="center">
+  <img height="175" src="https://github-stats-alpha.vercel.app/api?username=efedag&cc=0b1220&tc=00E5FF&ic=00E5FF&bc=0b1220" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=efedag&background=0b1220&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=00E5FF&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff&hide_border=true" />
+</p>
 
-[![Efe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=efedag&theme=minimal&hide_border=true&area=true&area_color=6E8EF7&line=6E8EF7&point=555555)](https://github.com/efedag)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=efedag&bg_color=0b1220&color=00E5FF&line=00E5FF&point=ffffff&hide_border=true" />
+</p>
 
 ---
 
-<div align="center">
+## 🚀 Projects
+- 🐍 [personal](https://github.com/efedag/personal) → Personal Python projects
+- 📚 [hw3](https://github.com/efedag/hw3) → Python homework
+- 📚 [hw2](https://github.com/efedag/hw2) → Python homework
 
-[![GitHub followers](https://img.shields.io/github/followers/efedag?style=flat&logo=github&label=Followers&color=6E8EF7)](https://github.com/efedag)
-&nbsp;&nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=efedag&color=6E8EF7&style=flat&label=Profile+Views)](https://github.com/efedag)
+---
 
-</div>
+<p align="center">
+  ✨ Neon mode ON — thanks for visiting! ✨
+</p>
