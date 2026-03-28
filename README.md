@@ -1,7 +1,7 @@
-<h1 align="center">Efe DaÄŸ</h1>
+<h1 align="center">Efe Dag</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Game+Developer+%F0%9F%8E%AE;Web+Developer+%F0%9F%8C%90;Mobile+App+Developer+%F0%9F%93%B1;Welcome+to+my+GitHub+%F0%9F%94%A5" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Game+Developer;Web+Developer;Mobile+App+Developer;Welcome+to+my+GitHub" />
 </p>
 
 <p align="center">
@@ -10,22 +10,22 @@
 
 ---
 
-## ğŸš€ About Me
-- ğŸ¯ Computer Science student, building cool projects  
-- ğŸ® Interested in: **Game Dev / Web Dev / Mobile Apps**  
-- ğŸ Main language: **Python**  
-- âš¡ Goal: **Learn by building, ship fast, have fun**  
+## About Me
+- Computer Science student, building cool projects
+- Interested in: **Game Dev / Web Dev / Mobile Apps**
+- Main language: **Python**
+- Goal: **Learn by building, ship fast, have fun**
 
 ---
 
-## ğŸ› ï¸ Tech Stack
+## Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode&perline=7" />
 </p>
 
 ---
 
-## ğŸ“Š GitHub Stats
+## GitHub Stats
 <p align="center">
   <img height="175" src="https://github-stats-alpha.vercel.app/api?username=efedag&cc=0b1220&tc=00E5FF&ic=00E5FF&bc=0b1220" />
 </p>
@@ -40,13 +40,13 @@
 
 ---
 
-## ğŸš€ Projects
-- ğŸ [personal](https://github.com/efedag/personal) â†’ Personal Python projects
-- ğŸ“š [hw3](https://github.com/efedag/hw3) â†’ Python homework
-- ğŸ“š [hw2](https://github.com/efedag/hw2) â†’ Python homework
+## Projects
+- [personal](https://github.com/efedag/personal) - Personal Python projects
+- [hw3](https://github.com/efedag/hw3) - Python homework
+- [hw2](https://github.com/efedag/hw2) - Python homework
 
 ---
 
 <p align="center">
-  âœ¨ Neon mode ON â€” thanks for visiting! âœ¨
+  Neon mode ON - thanks for visiting!
 </p>
