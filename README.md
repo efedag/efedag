@@ -32,7 +32,7 @@
 | [WhoWantsToBeAMillioner](https://github.com/efedag/WhoWantsToBeAMillioner) | Desktop quiz game with TCP socket communication | Java Swing |
 | [JavaMiniFarmGame](https://github.com/efedag/JavaMiniFarmGame) | 2D pixel farm game - plant, harvest, trade | Java Swing |
 | [FoodApp](https://github.com/efedag/FoodApp) | Role-based food ordering system | PHP + MySQL |
-| [personal](https://github.com/efedag/personal) | Personal Python projects | Python |
+| [Hangman](https://github.com/efedag/Hangman) | Modern desktop Hangman game with dark/light themes & bilingual TR/EN support | Python + CustomTkinter |
 
 ---
 
