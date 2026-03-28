@@ -20,7 +20,7 @@
 
 ## Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,php,js,ts,html,css,react,nextjs,nodejs,tailwind,prisma,mysql,git,github,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,php,js,ts,html,css,react,nextjs,nodejs,tailwind,prisma,mysql,vite,vercel,git,github,vscode&perline=7" />
 </p>
 
 ---
@@ -33,6 +33,7 @@
 | [JavaMiniFarmGame](https://github.com/efedag/JavaMiniFarmGame) | 2D pixel farm game - plant, harvest, trade | Java Swing |
 | [FoodApp](https://github.com/efedag/FoodApp) | Role-based food ordering system | PHP + MySQL |
 | [Hangman](https://github.com/efedag/Hangman) | Modern desktop Hangman game with dark/light themes & bilingual TR/EN support | Python + CustomTkinter |
+| [CV Generator](https://github.com/efedag/cv-generator) | ATS-friendly CV builder with live preview, PDF export & bilingual TR/EN — [Live Demo](https://cvgenetor.vercel.app) | React + TypeScript + Vite |
 
 ---
 
