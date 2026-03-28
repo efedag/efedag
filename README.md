@@ -1,7 +1,7 @@
 <h1 align="center">Efe Dag</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Game+Developer;Web+Developer;Mobile+App+Developer;Welcome+to+my+GitHub" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Game+Developer;Web+Developer;Mobile+App+Developer;Welcome+to+my+GitHub" />
 </p>
 
 <p align="center">
@@ -11,16 +11,16 @@
 ---
 
 ## About Me
-- Computer Science student, building cool projects
+- Computer Engineering student, building cool projects
 - Interested in: **Game Dev / Web Dev / Mobile Apps**
-- Main languages: **Python, Java, PHP**
+- Main languages: **Python, Java, C++, PHP**
 - Goal: **Learn by building, ship fast, have fun**
 
 ---
 
 ## Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,php,js,html,css,mysql,git,github,vscode&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,php,js,html,css,mysql,git,github,vscode&perline=6" />
 </p>
 
 ---
